@@ -11,10 +11,12 @@
   },
   "dependencies": {
     "cesium": "^1.116.0",
+    "cesiummeshvisualizer": "^1.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "^0.153.0",
-    "vite-plugin-cesium": "^1.2.22"
+    "vite-plugin-cesium": "^1.2.22",
+    "vite-plugin-glsl": "^1.3.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
@@ -33,4 +35,3 @@
     "vite": "^5.2.0"
   }
 }
-
